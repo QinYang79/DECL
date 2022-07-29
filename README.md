@@ -24,7 +24,7 @@ nltk.download()
   
 ## Datasets
 
-Our directory structure of data.
+Our directory structure of ```data```.
 ```
 data
 ├── f30k_precomp # pre-computed BUTD region features for Flickr30K, provided by SCAN
