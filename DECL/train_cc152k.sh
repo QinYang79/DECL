@@ -1,6 +1,6 @@
-gpu=7
-data_path=/home/qinyang/projects/EvidenceTextImage/ETI/data/data
-vocab_path=/home/qinyang/projects/EvidenceTextImage/ETI/data/vocab/
+gpu=0
+data_path=./data
+vocab_path=./data/vocab/
 
 warmup_epoch=5
 module_name=SGR
