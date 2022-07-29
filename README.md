@@ -107,4 +107,4 @@ Our reproduced results in [evaluation_log](https://drive.google.com/file/d/1N14y
 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Acknowledgements
-The code is based on[NCR](https://github.com/XLearning-SCU/2021-NeurIPS-NCR), [SGRAF](https://github.com/Paranioar/SGRAF), and [SCAN](https://github.com/kuanghuei/SCAN) licensed under Apache 2.0.
+The code is based on [NCR](https://github.com/XLearning-SCU/2021-NeurIPS-NCR), [SGRAF](https://github.com/Paranioar/SGRAF), and [SCAN](https://github.com/kuanghuei/SCAN) licensed under Apache 2.0.
