@@ -70,7 +70,7 @@ def parse_opt():
                         help='Need warmup training?')
     parser.add_argument('--warmup_epochs', default=5, type=int,
                         help='Number of warmup epochs.')
-    parser.add_argument('--warmup_model_path', default='/home/qinyang/projects/EvidenceTextImage/DECL/run/f30k_SAF_noise0.4/checkpoint_dir/warmup_model_4.pth.tar',
+    parser.add_argument('--warmup_model_path', default='',
                         help='Path to load a pre-model')
     # noise settings
     parser.add_argument('--noise_ratio', default=0.0, type=float,
