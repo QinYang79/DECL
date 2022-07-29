@@ -7,7 +7,7 @@ noise_ratio=0.2
 noise_file=noise_file_path
 
 # noise_ratio:[0.2,0.4,0.6,0.8]---warmup_epoch:[2,2,1,1]
-warmup_epoch=2
+warmup_epoch=2 
 module_name=SGR
 folder_name=coco_SGR_noise0.2
 
