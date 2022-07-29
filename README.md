@@ -93,8 +93,7 @@ Modify the  ```data_path```, ```vocab_path```, ```checkpoint_paths``` in the ```
 python eval.py
 ```
 
-<!-- Our reproduced results [log](https://ncr-paper.cdn.bcebos.com/data/NCR-data.tar)
- (Better than the original paper) -->
+Our reproduced results in [evaluation_log](https://drive.google.com/file/d/1N14yx5YE6kT1h9TvcJi8w3ALlSl3TbUc/view?usp=sharing). (Better than the original paper)
 
 ### Experiment Results:
 <img src="./src/tab1.png"  width="740" />
