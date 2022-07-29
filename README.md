@@ -90,7 +90,7 @@ sh train_cc152k.sh
 ```
 
 ### Evaluation
-Modify the  ```data_path```, ```vocab_path```, ```checkpoint_paths``` in the ```eval.py``` file run it.
+Modify the  ```data_path```, ```vocab_path```, ```checkpoint_paths``` in the ```eval.py``` file and run it.
 ```
 python eval.py
 ```
