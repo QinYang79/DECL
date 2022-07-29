@@ -24,17 +24,7 @@ nltk.download()
   
 ## Datasets
 
-### MS-COCO and Flickr30K
-We follow [SCAN](https://github.com/kuanghuei/SCAN) to obtain image features and vocabularies.
-
-### CC152K
-Following [NCR](https://github.com/XLearning-SCU/2021-NeurIPS-NCR), we use a subset of [Conceptual Captions](https://ai.google.com/research/ConceptualCaptions) (CC), named CC152K. CC152K contains training 150,000 samples from the CC training split, 1,000 validation samples and 1,000 testing samples from the CC validation split.
-
-[Download Dataset](https://ncr-paper.cdn.bcebos.com/data/NCR-data.tar)
-
-### Noise index
-If you want to experiment with the same noise index as in the paper, the noise file can be downloaded from [noise files](https://drive.google.com/file/d/1-PJTDZRMo68mtY-hzPXheaakOVRkY5Ie/view?usp=sharing).
-
+Our directory structure of data.
 ```
 data
 ├── f30k_precomp # pre-computed BUTD region features for Flickr30K, provided by SCAN
@@ -66,6 +56,18 @@ data
       ├── coco_precomp_vocab.json
       └── cc152k_precomp_vocab.json
 ```
+
+### MS-COCO and Flickr30K
+We follow [SCAN](https://github.com/kuanghuei/SCAN) to obtain image features and vocabularies.
+
+### CC152K
+Following [NCR](https://github.com/XLearning-SCU/2021-NeurIPS-NCR), we use a subset of [Conceptual Captions](https://ai.google.com/research/ConceptualCaptions) (CC), named CC152K. CC152K contains training 150,000 samples from the CC training split, 1,000 validation samples and 1,000 testing samples from the CC validation split.
+
+[Download Dataset](https://ncr-paper.cdn.bcebos.com/data/NCR-data.tar)
+
+### Noise index
+If you want to experiment with the same noise index as in the paper, the noise file can be downloaded from [noise files](https://drive.google.com/file/d/1-PJTDZRMo68mtY-hzPXheaakOVRkY5Ie/view?usp=sharing).
+
 
 ## Training and Evaluation
 
