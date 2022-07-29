@@ -66,7 +66,7 @@ Following [NCR](https://github.com/XLearning-SCU/2021-NeurIPS-NCR), we use a sub
 [Download Dataset](https://ncr-paper.cdn.bcebos.com/data/NCR-data.tar)
 
 ### Noise index
-If you want to experiment with the same noise index as in the paper, the noise file can be downloaded from [noise files](https://drive.google.com/file/d/1-PJTDZRMo68mtY-hzPXheaakOVRkY5Ie/view?usp=sharing).
+If you want to experiment with the same noise index as in the paper, the noise index files can be downloaded from [here](https://drive.google.com/file/d/1-PJTDZRMo68mtY-hzPXheaakOVRkY5Ie/view?usp=sharing).
 
 
 ## Training and Evaluation
