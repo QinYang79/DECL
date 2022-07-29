@@ -14,13 +14,9 @@ from model.DECL import DECL
 from evaluation import encode_data, shard_attn_scores, i2t, t2i, AverageMeter, LogCollector
 from utils import save_checkpoint
 from vocab import deserialize_vocab
-import matplotlib
 import warnings
 
 warnings.filterwarnings("ignore")
-
-matplotlib.use('Agg')
-
 
 def adjust_learning_rate(opt, optimizer, epoch):
     """

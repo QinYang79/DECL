@@ -6,9 +6,9 @@ if __name__ == '__main__':
     os.environ['CUDA_VISIBLE_DEVICES'] = '0'
     # DECL-SGRAF.
     avg_SGRAF = True
-
-    data_path = './data'
-    vocab_path = './vocab'
+    
+    data_path= './data'
+    vocab_path= './data/vocab/'
     ns = [0.2, 0.4, 0.6, 0.8]
     for n in ns:
         print(f"\n============================>f30k noise:{n}")

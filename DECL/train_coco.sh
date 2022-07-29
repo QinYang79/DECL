@@ -1,7 +1,6 @@
-gpu=7
-data_path=/home/qinyang/projects/EvidenceTextImage/ETI/data/data
-vocab_path=/home/qinyang/projects/EvidenceTextImage/ETI/data/vocab/
-
+gpu=0
+data_path=./data
+vocab_path=./data/vocab/
 
 noise_ratio=0.2
 # if you want load a pre-index file, pls set noise_file
