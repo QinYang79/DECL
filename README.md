@@ -106,11 +106,15 @@ Our reproduced results in [evaluation_log](https://drive.google.com/file/d/1N14y
 If DECL is useful for your research, please cite the following paper:
 ```
 @inproceedings{Qin2022DECL,
-    title     = {Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval},
-    author    = {Yang Qin, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu},
-    booktitle = {Proceedings of the 30th ACM International Conference on Multimedia (ACM MM)},
-    month     = {October},
-    year      = {2022},
+    author = {Qin, Yang and Peng, Dezhong and Peng, Xi and Wang, Xu and Hu, Peng},
+    title = {Deep Evidential Learning with Noisy Correspondence for Cross-Modal Retrieval},
+    year = {2022},
+    doi = {10.1145/3503161.3547922},
+    booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+    pages = {4948–4956},
+    numpages = {9},
+    location = {Lisboa, Portugal},
+    series = {MM '22}
 }
 ```
 
