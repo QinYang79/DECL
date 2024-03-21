@@ -1,5 +1,5 @@
 
-PyTorch implementation for [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view) (ACM Multimedia 2022).
+PyTorch implementation for [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view) (ACM Multimedia 2022). The solution to [the noisy correspondence problem](https://github.com/QinYang79/Noisy-Correspondence-Summary) in image-text matching.
 
 ## Update
 2022-12-20. We provide the results using the same noise index as [NCR](https://github.com/XLearning-SCU/2021-NeurIPS-NCR), which might be helpful to your research.
